@@ -1,0 +1,28 @@
+{
+  "name": "andronoid/carousel",
+  "description": "Owl Carousel 2",
+  "type": "magento2-component",
+  "version": "2.3.4",
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "David Deutsch",
+      "email": "deutsch@medienpark.net",
+      "url": "https://owlcarousel2.github.io/OwlCarousel2"
+    },
+    {
+      "name": "Artem Bychenko",
+      "email": "magento.andronoid@gmail.com"
+    }
+  ],
+  "extra": {
+    "map": [
+      [
+        "*",
+        "app/code/Andronoid/Carousel/web/OwlCarousel2"
+      ]
+    ]
+  }
+}
